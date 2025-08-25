@@ -1,0 +1,13 @@
+.authNav {
+    display: flex;
+    gap: 16px;
+}
+
+.link {
+    text-decoration: none;
+    color: #555;
+}
+
+.link.active {
+    color: #28a745;
+}
